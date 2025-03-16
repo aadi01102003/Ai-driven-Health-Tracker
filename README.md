@@ -8,7 +8,6 @@ Welcome to the **AI-Driven Health Tracker App** — your smart companion to lead
 
 ### 👤 Profile Section
 - Add personal details: age, gender, height, weight, fitness goals, dietary preferences.
-- Automatically calculates BMI and BMR.
 - Personalized user dashboard.
 
 ### 🥗 Food Tracker
@@ -40,37 +39,3 @@ Welcome to the **AI-Driven Health Tracker App** — your smart companion to lead
 | ![Profile](screenshots/profile.png) | ![Progress](screenshots/progress-tracker.png) |
 
 ---
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React Native / Flutter (cross-platform mobile)
-- **Backend:** Node.js / Django REST API
-- **Database:** PostgreSQL / MongoDB
-- **AI Models:** Python (TensorFlow, Scikit-learn, GPT APIs for recommendations)
-- **Authentication:** Firebase Auth / OAuth 2.0
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites:
-- Node.js / Python
-- Mobile Emulator / Device
-- API keys for Nutrition & Fitness APIs (e.g., Nutritionix, OpenAI, etc.)
-
-### Setup Instructions:
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/ai-health-tracker.git
-cd ai-health-tracker
-
-# Install dependencies
-npm install         # For frontend
-pip install -r requirements.txt  # For backend AI engine
-
-# Start backend server
-python backend/app.py
-
-# Start frontend
-npm start
