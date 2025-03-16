@@ -36,6 +36,6 @@ Welcome to the **AI-Driven Health Tracker App** — your smart companion to lead
 
 | Profile Page | Progress Tracker |
 |--------------|------------------|
-| ![Profile](screenshots/profile.png) | ![Progress](screenshots/progress-tracker.png) |
+| ![Profile](screenshots/Screenshot 2025-03-16 163201.png) | ![Progress](screenshots/progress-tracker.png) |
 
 ---
